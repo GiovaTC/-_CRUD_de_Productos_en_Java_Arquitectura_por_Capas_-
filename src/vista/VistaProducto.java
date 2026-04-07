@@ -49,5 +49,5 @@ public class VistaProducto extends JFrame {
         JScrollPane scroll = new JScrollPane(tabla);
         scroll.setBounds(20, 150, 540, 180);
         add(scroll);
-    }   
+    }
 }
