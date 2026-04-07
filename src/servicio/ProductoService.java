@@ -24,4 +24,4 @@ public class ProductoService {
     public void eliminar(int id) {
         dao.eliminar(id);
     }
-}   
+}
