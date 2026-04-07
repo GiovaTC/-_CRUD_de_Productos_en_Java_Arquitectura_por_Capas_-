@@ -1,7 +1,9 @@
 # -_CRUD_de_Productos_en_Java_Arquitectura_por_Capas_- :.
 🧾 CRUD de Productos en Java (Arquitectura por Capas):
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/4e1f388e-df1a-4ef8-a578-dfeea8367ded" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/4e1f388e-df1a-4ef8-a578-dfeea8367ded" />    
+
+<img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/44c1163a-6bf1-4719-bc17-ecebaeff3287" />    
 
 ```
 
